@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,3 +12,7 @@ Currently, two official plugins are available:
 # Gemini-clone
 A clone of the Gemini project built for learning and experimentation. This repository serves as a personal project to explore and modify Gemini's features while maintaining version control for smooth collaboration and future improvements.
 >>>>>>> 418d4d87e978968456f331b969d3f3ef3d1426b5
+=======
+# Gemini-clone
+A clone of the Gemini project built for learning and experimentation. This repository serves as a personal project to explore and modify Gemini's features while maintaining version control for smooth collaboration and future improvements.
+>>>>>>> 41c95affb706379092fb51890fb9f3aef6c5024a
